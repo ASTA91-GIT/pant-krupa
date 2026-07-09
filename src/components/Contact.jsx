@@ -5,8 +5,8 @@ import { Phone, MessageSquare, Mail, MapPin, Clock, ExternalLink } from 'lucide-
 const Contact = () => {
   // Configured contact variables
   const contactDetails = {
-    phone: '+91 99201 02030',
-    whatsapp: '+91 99201 02030',
+    phone: '+91 74998 89392',
+    whatsapp: '+91 74998 89392',
     email: 'bookings@pantkrupafarmhouse.com',
     address: 'Pant Krupa Farmhouse, Bopoli, Post - Tadwagale, Taluka - Alibag, Raigad, Maharashtra 402203, India',
     hours: 'Monday – Sunday: 9:00 AM – 9:00 PM',
